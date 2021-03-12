@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>0 2 "41 5 52 34 4 42 36 49 16 31 6 44 9 50 7 12 32 51 27 45 46 21 13 33 11 30 8 47 1 14 15 29 10 25 38 35 22 48 19 37 20 3 40 39 26 2 17 24 28 23 43 18 "</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>0 2 "41 5 52 34 4 42 36 49 16 31 6 44 9 50 7 12 32 51 27 45 46 21 13 33 11 30 8 47 1 14 15 29 10 25 38 35 22 48 19 37 20 3 40 39 26 2 17 24 28 23 43 18 "</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>0 2 "41 5 52 34 4 42 36 49 16 31 6 44 9 50 7 12 32 51 27 45 46 21 13 33 11 30 8 47 1 14 15 29 10 25 38 35 22 48 19 37 20 3 40 39 26 2 17 24 28 23 43 18 "</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>0 2 "41 5 52 34 4 42 36 49 16 31 6 44 9 50 7 12 32 51 27 45 46 21 13 33 11 30 8 47 1 14 15 29 10 25 38 35 22 48 19 37 20 3 40 39 26 2 17 24 28 23 43 18 "</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
